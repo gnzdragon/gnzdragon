@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gnzdragon
-- 👀 I’m interested in ... Windows, GNU/Linux, Cybersecurity, Java, and Python
+- 👀 I’m interested in ... Windows, GNU/Linux, Cybersecurity, Java, Python, and Internetworking
 - 🌱 I’m currently learning ... Security+
 - 💞️ I’m looking to collaborate on ... Security Scripts
 - 📫 How to reach me ... jaceegonzales00@gmail.com
